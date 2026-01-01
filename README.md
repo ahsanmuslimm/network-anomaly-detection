@@ -50,7 +50,7 @@ network-anomaly-detection/
 |   └─  X_train.pkl, X_test.pkl    # Train/test features
 |   └─  y_train.pkl, y_test.pkl    # Train/test labels
 │── report/
-|   └── Project Report
+|   └── Report
 | 
 ├── README.md
 └── requirements.txt
