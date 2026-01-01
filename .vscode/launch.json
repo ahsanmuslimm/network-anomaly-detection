@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Network Anomaly Prediction",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/run_prediction.py",
+            "args": [
+                "dataset/user_test_input.csv"
+            ],
+            "console": "integratedTerminal"
+        }
+    ]
+}
